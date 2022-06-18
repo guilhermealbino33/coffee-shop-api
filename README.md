@@ -4,5 +4,6 @@ A api deverá ter:
 
 # models
 
-[] - usuario com nome, login e senha
-[] - comanda ou mesa com número, pedido array, atendido boolean, pago boolean
+[] - usuario: nome, login e senha
+[] - comanda ou mesa: número, pedido array, atendido boolean, pago boolean
+[] - menu: nome, valor, tipo (comida/bebida/cafés) enum quantidade

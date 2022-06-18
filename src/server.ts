@@ -1,3 +1,3 @@
-const number = 45;
+const a = 45;
 
-console.log("Number", number);
+console.log("Number", a);

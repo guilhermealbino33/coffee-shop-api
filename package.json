@@ -1,0 +1,8 @@
+{
+  "name": "coffee-shop-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/guilhermealbino33/coffee-shop-api.git",
+  "author": "Guilherme Albino <guilhermealbino33@gmail.com>",
+  "license": "MIT"
+}

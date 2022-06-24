@@ -1,4 +1,4 @@
 export default class createUserUseCase {
-  //   constructor() {}
+     constructor(@inject("UsersService") private usersService: UserService) {)}
   async execute() {}
 }

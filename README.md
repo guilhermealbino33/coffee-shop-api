@@ -4,14 +4,14 @@ A api deverá ter:
 
 # models
 
-[] - usuario: nome, login e senha
+[x] - usuario: nome, login e senha
 [] - comanda ou mesa: número, pedido array, atendido boolean, pago boolean
 [] - menu: nome, valor, tipo (comida/bebida/cafés) enum quantidade
 
 # DB
 
-[] - escolher o tipo de banco de dados
+[x] - escolher o tipo de banco de dados: MongoDB
 
 # TODO
 
-[] - server.ts
+[x] - server.ts

@@ -15,7 +15,8 @@ A api deverá ter:
 # TODO
 
 [x] - server.ts
-[] - instalar tsyringe
+[x] - instalar tsyringe
 [] - instalar router
 [] - criar container
 [] - criar rotas
+[] - criar user.repository.ts

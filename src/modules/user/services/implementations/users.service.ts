@@ -1,6 +1,8 @@
+import { injectable } from "tsyringe";
+
 import IUsersService from "../IUsersService";
 
-// @injectable()
+@injectable()
 export default class usersService implements IUsersService {
   async createUser() {
     return null;
